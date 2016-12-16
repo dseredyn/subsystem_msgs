@@ -1,0 +1,13 @@
+---
+string[] upper_inputs
+bool[] upper_inputs_ipc
+
+string[] lower_inputs
+bool[] lower_inputs_ipc
+
+string[] upper_outputs
+bool[] upper_outputs_ipc
+
+string[] lower_outputs
+bool[] lower_outputs_ipc
+

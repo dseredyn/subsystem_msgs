@@ -11,3 +11,7 @@ bool[] upper_outputs_ipc
 string[] lower_outputs
 bool[] lower_outputs_ipc
 
+ComponentInfo[] components
+
+BehaviorInfo[] behaviors
+

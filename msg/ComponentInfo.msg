@@ -1,0 +1,4 @@
+string name
+
+PortInfo[] ports
+

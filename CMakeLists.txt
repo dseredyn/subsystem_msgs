@@ -27,20 +27,17 @@ find_package(catkin REQUIRED COMPONENTS std_msgs actionlib_msgs)
 #  )
 
 ## Generate messages in the 'msg' folder
-#add_message_files(
-#  FILES
-#  BlockInfo.msg
-#  GroupInfo.msg
-#  TimeStatistics.msg
-#  TaskState.msg
-#)
+add_message_files(
+  FILES
+  BehaviorInfo.msg
+  ComponentInfo.msg
+  PortInfo.msg
+)
 
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
   GetSubsystemInfo.srv
-  #Service1.srv
-  #Service2.srv
 )
 
 ## Generate added messages and services with any dependencies listed here

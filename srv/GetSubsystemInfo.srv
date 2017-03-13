@@ -1,4 +1,6 @@
 ---
+bool is_initialized
+
 string[] upper_inputs
 bool[] upper_inputs_ipc
 

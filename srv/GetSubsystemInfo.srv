@@ -21,3 +21,5 @@ ComponentInfo[] components
 
 BehaviorInfo[] behaviors
 
+ConnectionInfo[] connections
+

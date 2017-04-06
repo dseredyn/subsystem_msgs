@@ -2,19 +2,15 @@
 bool is_initialized
 
 string[] upper_inputs
-bool[] upper_inputs_ipc
 string[] alias_upper_inputs
 
 string[] lower_inputs
-bool[] lower_inputs_ipc
 string[] alias_lower_inputs
 
 string[] upper_outputs
-bool[] upper_outputs_ipc
 string[] alias_upper_outputs
 
 string[] lower_outputs
-bool[] lower_outputs_ipc
 string[] alias_lower_outputs
 
 ComponentInfo[] components
